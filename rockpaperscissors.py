@@ -81,7 +81,7 @@ def lets_play(option):
     option_help = ("\n This game is simple and goes as following:"  
           "\n *You can choose between: Rock, Paper or Scissors."
           "\n\n You must take in consideration that:"
-          "\n *Rock crushers Scissors."
+          "\n *Rock crushes Scissors."
           "\n *Scissors cut Paper."
           "\n *Paper covers Rock."
           "\n\n Notes: *The first one that scores 5 points WINS the game!"
